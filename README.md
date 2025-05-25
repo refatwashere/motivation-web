@@ -9,12 +9,12 @@ This web app serves as your personal motivational guide, delivering daily inspir
 - Animated star background for cosmic vibes.
 
 ### Live Demo
-[Click here](https://YOUR_USERNAME.github.io/motivation-webapp/) (replace with your GitHub Pages link)
+[Click here](https://refatwashere.github.io/motivation-webapp/) (replace with your GitHub Pages link)
 
 ### How to Run Locally
 1. Clone this repo:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/motivation-webapp.git
+    git clone https://github.com/refatwashere/motivation-webapp.git
     ```
 2. Open `index.html` in your browser.
 
